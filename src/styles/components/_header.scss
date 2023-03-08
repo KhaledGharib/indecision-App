@@ -1,0 +1,22 @@
+.header {
+  background-color: $soft-black;
+  margin-bottom: $m-size;
+  padding: $m-size 0;
+  color: white;
+}
+
+.header__title {
+  font-size: $l-size;
+}
+
+.header__subtitle {
+  color: $soft-white;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+@media (min-width: $desktop) {
+  .header {
+    margin-bottom: $xl-size;
+  }
+}

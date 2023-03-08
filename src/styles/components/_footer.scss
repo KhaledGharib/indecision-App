@@ -1,0 +1,14 @@
+.footer {
+  text-align: center;
+  color: $soft-white;
+  border-top: 1px solid black;
+  padding: 0.5rem;
+}
+
+.footer > a:active {
+  color: $soft-white;
+}
+a:link,
+:visited {
+  color: $soft-white;
+}
