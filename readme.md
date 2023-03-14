@@ -18,7 +18,7 @@
 
 ## How It Is Work
 
-Well, it's simply taking tasks from user and when clicking on the big button it's randomly choosing between tasks and popup them. What about saving tasks🧐? it's stored in local memory in the browser, so when the user comeback the tasks will be there watting to picked up 😇 until the user deletes them 😢 However take a look at the app 👉 [Live demo](https://xed-indecision-app.netlify.app/)✨
+Well, it's simply taking tasks from user and when clicking on the big button it's randomly choosing between tasks and popup them. What about saving tasks🧐? it's stored in Local Storage in the browser, so when the user comeback the tasks will be there watting to picked up 😇 until the user deletes them 😢 However take a look at the app 👉 [Live demo](https://xed-indecision-app.netlify.app/)✨
 
 ## How To Use
 
