@@ -15,7 +15,7 @@ const OptionModal = (props) => (
       <p className="modal__body">{props.selectedOption}</p>
     )}
     <button className="button" onClick={props.handleClear}>
-      All Goods 👍
+      Sounds Good 👍
     </button>
   </Modal>
 );
