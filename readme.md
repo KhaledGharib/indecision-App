@@ -9,7 +9,6 @@
       <img src="https://img.shields.io/badge/ReactJs-v18-61DAFB?logo=react"
       alt="npm">
     <img src="https://img.shields.io/badge/webpack-8DD6F9?logo=webpack&logoColor=white">
-<img src="https://img.shields.io/badge/-Handlebars.js-gray?logo=Handlebars.js&logoColor=orange">
 <img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white">
 </p>
 
